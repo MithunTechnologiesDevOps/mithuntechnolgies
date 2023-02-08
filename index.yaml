@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2023-02-08T02:46:37.524774905Z"
+    description: A Helm chart for mithuntechnologies demo app Kubernetes
+    digest: a69b7fa111fe71215d66f9ac5ce6bc5e94dd5610500d4895fba24ce2ce20d512
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://mithuntechnologiesdevops.github.io/mithuntechnolgies/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-08T02:46:37.523458129Z"
